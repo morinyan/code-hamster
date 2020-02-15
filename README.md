@@ -4,6 +4,7 @@
 ---
 
 ### 一些有趣的网站
+- [少年派](https://sspai.com/)
 - [logoko](https://www.logoko.com.cn/)
 - [SaaS之家](http://www.saaszhijia.com/)
 - [duososo](http://www.duososo.com/)
