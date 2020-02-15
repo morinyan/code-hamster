@@ -1,5 +1,10 @@
 # code-hamster
-仓库
+<details>
+  <summary>展开</summary>
+  <pre><code>
+    仓库
+  </code></pre>
+</details>
 
 ---
 
