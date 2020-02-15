@@ -20,3 +20,5 @@
 - [neets](http://neets.cc/)
 - [品玩](https://www.pingwest.com/)
 - [虫部落](https://chongbuluo.com/)
+- [wikihow](https://zh.wikihow.com/)
+- [果壳](https://www.guokr.com/)
