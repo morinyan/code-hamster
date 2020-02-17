@@ -34,3 +34,6 @@
 - [好网站目录](http://www.huachawu.com/)
 - [文图](https://www.wentu.io/)
 - [卡巴斯基网络攻击地图](https://cybermap.kaspersky.com/)
+- [HelloWorld编程语言收集](https://netsmell.com/apps/helloworldcollection/)
+- [编程语言API](https://overapi.com/)
+- [给未来的自己写封信](https://www.futureme.org/)
