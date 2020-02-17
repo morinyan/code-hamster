@@ -30,3 +30,4 @@
 - [果壳](https://www.guokr.com/)
 - [有趣网址之家 – 收藏全球最有趣的网站](https://youquhome.com/)
 - [爱资料工具](https://www.toolnb.com/)
+- [好网站目录](http://www.huachawu.com/)
