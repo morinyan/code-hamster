@@ -43,6 +43,7 @@
 - [设计网站大全](http://www.vipsheji.cn/)
 - [国外网站导航](http://www.yoyone.com/)
 - [资源友](http://www.ziyuanyou.com/)
+- [站长目录](http://www.54admin.net/)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
