@@ -38,6 +38,7 @@
 - [野创](http://www.yechuang.net/)
 - [有趣网址之家 – 收藏全球最有趣的网站](https://youquhome.com/)
 - [好网站目录](http://www.huachawu.com/)
+- [产品经理导航](http://www.pm265.com/)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
