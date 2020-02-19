@@ -38,3 +38,10 @@
 - [编程语言API](https://overapi.com/)
 - [给未来的自己写封信](https://www.futureme.org/)
 - [排行榜](https://www.maigoo.com/)
+
+### 数据报告
+- [博思网](http://www.bosidata.com/)
+
+### 品牌排行榜
+- [十大品牌网](https://www.china-10.com/)
+- [品牌榜](https://www.maigoo.com/)
