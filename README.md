@@ -39,6 +39,10 @@
 - [有趣网址之家 – 收藏全球最有趣的网站](https://youquhome.com/)
 - [好网站目录](http://www.huachawu.com/)
 - [产品经理导航](http://www.pm265.com/)
+- [萌导航](https://www.moe123.net/)
+- [设计网站大全](http://www.vipsheji.cn/)
+- [国外网站导航](http://www.yoyone.com/)
+- [资源友](http://www.ziyuanyou.com/)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
