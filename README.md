@@ -45,3 +45,6 @@
 ### 品牌排行榜
 - [十大品牌网](https://www.china-10.com/)
 - [品牌榜](https://www.maigoo.com/)
+
+### 数学
+- [wolframalpha](https://www.wolframalpha.com/)
