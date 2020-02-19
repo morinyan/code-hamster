@@ -37,7 +37,7 @@
 - [HelloWorld编程语言收集](https://netsmell.com/apps/helloworldcollection/)
 - [编程语言API](https://overapi.com/)
 - [给未来的自己写封信](https://www.futureme.org/)
-- [排行榜](https://www.maigoo.com/)
+- [最美应用](http://zuimeia.com/)
 
 ### 数据报告
 - [博思网](http://www.bosidata.com/)
