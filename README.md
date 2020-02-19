@@ -62,3 +62,10 @@
 
 ### 图书馆
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
+
+### 程序员
+- [https://linux.ubuntu.org.cn/](https://linux.ubuntu.org.cn/)
+- [https://www.chenzhuofan.top/](https://www.chenzhuofan.top/)
+- [http://devonline.net/](http://devonline.net/)
+- [https://www.ibaobei.site/](https://www.ibaobei.site/)
+- [http://redbanners.cn/](http://redbanners.cn/)
