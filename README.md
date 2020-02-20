@@ -34,6 +34,7 @@
 - [给未来的自己写封信](https://www.futureme.org/)
 
 ### 导航
+- [国外网站导航](https://www.egouz.com/)
 - [大木虫学术导航](http://www.4243.net/)
 - [野创](http://www.yechuang.net/)
 - [有趣网址之家 – 收藏全球最有趣的网站](https://youquhome.com/)
