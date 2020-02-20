@@ -58,6 +58,13 @@
 ### 工具
 - [爱资料工具](https://www.toolnb.com/)
 
+### 学术/科研
+- [小木虫](https://xmuchong.com/)
+- [小木虫导航](https://xmuchong.com/page-sitemap/)
+- [木虫导航](http://hao.muchong.com/)
+- [经济指标](https://zh.tradingeconomics.com/)
+- [科学网](http://news.sciencenet.cn/)
+
 ### 数据报告
 - [博思网](http://www.bosidata.com/)
 
