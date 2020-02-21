@@ -85,5 +85,6 @@
 - [https://www.ibaobei.site/](https://www.ibaobei.site/)
 - [http://redbanners.cn/](http://redbanners.cn/)
 
-### 技术站
+### 技术小站
 - [我是菜鸟](https://imcn.me/)
+- [Linux中国](https://linux.cn/)
