@@ -80,6 +80,7 @@
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
 
 ### 程序员
+- [图灵社区](https://www.ituring.com.cn/)
 - [https://linux.ubuntu.org.cn/](https://linux.ubuntu.org.cn/)
 - [https://www.chenzhuofan.top/](https://www.chenzhuofan.top/)
 - [http://devonline.net/](http://devonline.net/)
