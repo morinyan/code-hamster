@@ -52,6 +52,7 @@
 - [软曼网](https://www.ruanman.com/)
 - [最美应用](http://zuimeia.com/)
 - [producthunt](https://www.producthunt.com/)
+- [小众软件](https://www.appinn.com/)
 
 ### 网络咨询
 - [网界](http://www.cnw.com.cn/)
