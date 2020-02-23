@@ -67,6 +67,8 @@
 - [经济指标](https://zh.tradingeconomics.com/)
 - [科学网](http://news.sciencenet.cn/)
 - [龙猫学术导航](http://www.6453.net/)
+- [植物智](http://www.iplant.cn/)
+- [中国国家图书馆](http://mylib.nlc.cn/web/guest/boshilunwen)
 
 ### 数据报告
 - [博思网](http://www.bosidata.com/)
