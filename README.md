@@ -60,6 +60,9 @@
 ### 工具
 - [爱资料工具](https://www.toolnb.com/)
 
+### 新闻资讯
+- [全世界各国在线报纸网站](https://www.w3newspapers.com/)
+
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
 - [小木虫导航](https://xmuchong.com/page-sitemap/)
