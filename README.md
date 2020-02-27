@@ -25,8 +25,6 @@
 - [品玩](https://www.pingwest.com/)
 - [影猫](http://www.mvcat.com/)
 - [虫部落](https://chongbuluo.com/)
-- [wikihow](https://zh.wikihow.com/)
-- [果壳](https://www.guokr.com/)
 - [文图](https://www.wentu.io/)
 - [卡巴斯基网络攻击地图](https://cybermap.kaspersky.com/)
 - [HelloWorld编程语言收集](https://netsmell.com/apps/helloworldcollection/)
@@ -53,6 +51,11 @@
 - [最美应用](http://zuimeia.com/)
 - [producthunt](https://www.producthunt.com/)
 - [小众软件](https://www.appinn.com/)
+
+### 科普
+
+- [wikihow](https://zh.wikihow.com/)
+- [果壳](https://www.guokr.com/)
 
 ### 网络咨询
 - [网界](http://www.cnw.com.cn/)
