@@ -24,7 +24,6 @@
 - [neets](http://neets.cc/)
 - [品玩](https://www.pingwest.com/)
 - [影猫](http://www.mvcat.com/)
-- [虫部落](https://chongbuluo.com/)
 - [文图](https://www.wentu.io/)
 - [给未来的自己写封信](https://www.futureme.org/)
 
@@ -40,6 +39,7 @@
 - [国外网站导航](http://www.yoyone.com/)
 - [资源友](http://www.ziyuanyou.com/)
 - [站长目录](http://www.54admin.net/)
+- [虫部落](https://chongbuluo.com/)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
@@ -50,7 +50,6 @@
 - [小众软件](https://www.appinn.com/)
 
 ### 科普
-
 - [wikihow](https://zh.wikihow.com/)
 - [果壳](https://www.guokr.com/)
 
