@@ -26,9 +26,6 @@
 - [影猫](http://www.mvcat.com/)
 - [虫部落](https://chongbuluo.com/)
 - [文图](https://www.wentu.io/)
-- [卡巴斯基网络攻击地图](https://cybermap.kaspersky.com/)
-- [HelloWorld编程语言收集](https://netsmell.com/apps/helloworldcollection/)
-- [编程语言API](https://overapi.com/)
 - [给未来的自己写封信](https://www.futureme.org/)
 
 ### 导航
@@ -93,6 +90,9 @@
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
 
 ### 程序员
+- [卡巴斯基网络攻击地图](https://cybermap.kaspersky.com/)
+- [HelloWorld编程语言收集](https://netsmell.com/apps/helloworldcollection/)
+- [编程语言API](https://overapi.com/)
 - [图灵社区](https://www.ituring.com.cn/)
 - [https://linux.ubuntu.org.cn/](https://linux.ubuntu.org.cn/)
 - [https://www.chenzhuofan.top/](https://www.chenzhuofan.top/)
