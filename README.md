@@ -40,6 +40,7 @@
 - [资源友](http://www.ziyuanyou.com/)
 - [站长目录](http://www.54admin.net/)
 - [虫部落](https://chongbuluo.com/)
+- [创造师导航](http://chuangzaoshi.com/?utm_source=nicelinks.site)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
