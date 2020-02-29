@@ -30,6 +30,8 @@
 - [轻粒子-快应用统计平台](http://www.qinglizi.cn/)
 - [pomotodo](https://pomotodo.com/)
 - [壹心理](https://www.xinli001.com/)
+- [倾城之链](https://nicelinks.site/)
+- [豆田](https://doutian.me/)
 
 ### 在线工具(程序)
 - [ProcessOn](https://www.processon.com/)
