@@ -26,6 +26,36 @@
 - [影猫](http://www.mvcat.com/)
 - [文图](https://www.wentu.io/)
 - [给未来的自己写封信](https://www.futureme.org/)
+- [快应用](https://www.quickapp.cn/)
+- [轻粒子-快应用统计平台](http://www.qinglizi.cn/)
+- [pomotodo](https://pomotodo.com/)
+- [壹心理](https://www.xinli001.com/)
+
+### 在线工具(程序)
+- [ProcessOn](https://www.processon.com/)
+- [免费思维导图zhimap](https://zhimap.com/)
+- [Gridea 是一个静态博客写作客户端](https://gridea.dev/)
+- [GitMind](https://gitmind.cn/)
+- [Arya-在线 Markdown 编辑器](https://markdown.lovejade.cn/)
+- [声享在线PPT](https://ppt.baomitu.com/)
+- [Cmd-在线Markdown编辑器](https://www.zybuluo.com/mdeditor)
+- [Markdown Nice](https://www.mdnice.com/)
+- [中午吃什么](https://www.zwcsm.com/)
+
+### 字体
+- [字体传奇网](http://www.ziticq.com/)
+- [有字库](https://www.webfont.com/)
+
+### 图片
+- [图虫](https://tuchong.com/)
+- [美图每周](http://www.picperweek.com/)
+- [沙沙野](https://www.ssyer.com/)
+- [图标下载](https://www.easyicon.net/)
+
+### 设计&艺术
+- [花瓣网](https://huaban.com/)
+- [behance](https://www.behance.net/)
+- [优图库](https://www.utu.cool/)
 
 ### 导航
 - [国外网站导航](https://www.egouz.com/)
@@ -40,7 +70,9 @@
 - [资源友](http://www.ziyuanyou.com/)
 - [站长目录](http://www.54admin.net/)
 - [虫部落](https://chongbuluo.com/)
-- [创造师导航](http://chuangzaoshi.com/?utm_source=nicelinks.site)
+- [虫部落](https://www.chongbuluo.com/)
+- [创造师导航](http://chuangzaoshi.com/)
+- [考拉新媒体导航](https://www.kaolamedia.com/)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
@@ -59,6 +91,9 @@
 
 ### 工具
 - [爱资料工具](https://www.toolnb.com/)
+- [精准云工具](https://jingzhunyun.com/)
+- [JSON在线](https://www.sojson.com/)
+- [在线工具](https://tool.lu/)
 
 ### 新闻资讯
 - [全世界各国在线报纸网站](https://www.w3newspapers.com/)
