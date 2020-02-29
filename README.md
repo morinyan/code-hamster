@@ -34,6 +34,7 @@
 - [豆田](https://doutian.me/)
 
 ### 在线工具(程序)
+- [草料二维码](https://cli.im/)
 - [ProcessOn](https://www.processon.com/)
 - [免费思维导图zhimap](https://zhimap.com/)
 - [Gridea 是一个静态博客写作客户端](https://gridea.dev/)
