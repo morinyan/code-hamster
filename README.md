@@ -47,6 +47,7 @@
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
 - [有字库](https://www.webfont.com/)
+- [justfont](https://justfont.com/)
 
 ### 图片
 - [图虫](https://tuchong.com/)
