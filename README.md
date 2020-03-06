@@ -130,6 +130,7 @@
 - [全国图书馆参考咨询联盟](http://www.ucdrs.superlib.net/)
 
 ### 程序员
+- [深度开源](https://www.open-open.com/)
 - [卡巴斯基网络攻击地图](https://cybermap.kaspersky.com/)
 - [HelloWorld编程语言收集](https://netsmell.com/apps/helloworldcollection/)
 - [编程语言API](https://overapi.com/)
