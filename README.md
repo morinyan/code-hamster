@@ -38,6 +38,13 @@
 - [2uts](http://2uts.com/)
 - [唤醒食物](https://www.foodwake.com/)
 - [PPT宝藏](http://www.pptbz.com/)
+- [考试库](https://www.examcoo.com/)
+- [自由钢琴](https://www.autopiano.cn/)
+- [数字帝国](https://zh.numberempire.com/)
+- [中文字幕组](https://crashcourse.club/category/)
+- [天空之城](https://www.skypixel.com/)
+- [正版中国](https://getitfree.cn/)
+
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
@@ -54,6 +61,8 @@
 - [术语在线](http://www.termonline.cn/index.htm)
 - [如何吧-办公软件技巧](https://www.ruhe8.com/)
 - [在线绘图](https://www.draw.io/)
+- [工具123](http://www.gjw123.com/)
+
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
@@ -71,6 +80,7 @@
 - [behance](https://www.behance.net/)
 - [优图库](https://www.utu.cool/)
 - [colorhub](https://colorhub.me/)
+- [topys](https://www.topys.cn/)
 
 ### 导航
 - [国外网站导航](https://www.egouz.com/)
@@ -90,6 +100,9 @@
 - [考拉新媒体导航](https://www.kaolamedia.com/)
 - [阿猫阿狗导航-产品&运营](https://dh.woshipm.com/#section-1)
 - [设计导航](https://idesign.qq.com/#!index/feed)
+- [某柠檬](https://www.moulem.com/)
+- [高效搜罗](http://www.gaoxiaosouluo.com/)
+- [云端超级应用空间](https://uzer.me/)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
