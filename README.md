@@ -34,6 +34,7 @@
 - [豆田](https://doutian.me/)
 - [方方格子](http://ffcell.com/)
 - [煎蛋](http://jandan.net/)
+- [eHow](https://www.ehow.com/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
@@ -111,6 +112,7 @@
 
 ### 学习
 - [oeasy](http://oeasy.org/)
+- [香当](https://www.xiangdang.net/)
 
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
