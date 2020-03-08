@@ -45,7 +45,8 @@
 - [天空之城](https://www.skypixel.com/)
 - [正版中国](https://getitfree.cn/)
 - [发现中国](https://www.ageeye.cn/)
-
+- [微词云](https://www.weiciyun.com/)
+- [博客-feed订阅](https://getpodcast.xyz/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
@@ -128,6 +129,7 @@
 
 ### 新闻资讯
 - [全世界各国在线报纸网站](https://www.w3newspapers.com/)
+- [澎湃-美数课](https://www.thepaper.cn/list_25635)
 
 ### 科技资讯
 - [量子位](https://www.qbitai.com/)
@@ -137,6 +139,7 @@
 - [香当](https://www.xiangdang.net/)
 - [大学资源网](http://www.dxzy163.com/)
 - [三秋书屋](https://www.d4j.cn/)
+- [粉笔](https://fenbi.com/page/home)
 
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
@@ -147,6 +150,7 @@
 - [龙猫学术导航](http://www.6453.net/)
 - [植物智](http://www.iplant.cn/)
 - [中国国家图书馆](http://mylib.nlc.cn/web/guest/boshilunwen)
+- [猫咪论文](https://lunwen.im/)
 
 ### 数据报告
 - [博思网](http://www.bosidata.com/)
