@@ -36,6 +36,7 @@
 - [煎蛋](http://jandan.net/)
 - [eHow](https://www.ehow.com/)
 - [2uts](http://2uts.com/)
+- [唤醒食物](https://www.foodwake.com/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
@@ -49,6 +50,9 @@
 - [Markdown Nice](https://www.mdnice.com/)
 - [中午吃什么](https://www.zwcsm.com/)
 - [稿定抠图](https://www.gaoding.com/koutu)
+- [术语在线](http://www.termonline.cn/index.htm)
+- [如何吧-办公软件技巧](https://www.ruhe8.com/)
+- [在线绘图](https://www.draw.io/)
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
