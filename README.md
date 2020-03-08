@@ -44,6 +44,7 @@
 - [Cmd-在线Markdown编辑器](https://www.zybuluo.com/mdeditor)
 - [Markdown Nice](https://www.mdnice.com/)
 - [中午吃什么](https://www.zwcsm.com/)
+- [稿定抠图](https://www.gaoding.com/koutu)
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
