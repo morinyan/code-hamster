@@ -89,6 +89,7 @@
 - [创造师导航](http://chuangzaoshi.com/)
 - [考拉新媒体导航](https://www.kaolamedia.com/)
 - [阿猫阿狗导航-产品&运营](https://dh.woshipm.com/#section-1)
+- [设计导航](https://idesign.qq.com/#!index/feed)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
