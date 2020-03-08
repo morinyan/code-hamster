@@ -32,6 +32,8 @@
 - [壹心理](https://www.xinli001.com/)
 - [倾城之链](https://nicelinks.site/)
 - [豆田](https://doutian.me/)
+- [方方格子](http://ffcell.com/)
+- [煎蛋](http://jandan.net/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
