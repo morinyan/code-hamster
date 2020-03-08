@@ -35,6 +35,7 @@
 - [方方格子](http://ffcell.com/)
 - [煎蛋](http://jandan.net/)
 - [eHow](https://www.ehow.com/)
+- [2uts](http://2uts.com/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
