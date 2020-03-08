@@ -44,6 +44,7 @@
 - [中文字幕组](https://crashcourse.club/category/)
 - [天空之城](https://www.skypixel.com/)
 - [正版中国](https://getitfree.cn/)
+- [发现中国](https://www.ageeye.cn/)
 
 
 ### 在线工具(程序)
