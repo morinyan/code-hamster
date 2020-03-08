@@ -106,6 +106,9 @@
 ### 科技资讯
 - [量子位](https://www.qbitai.com/)
 
+### 学习
+- [oeasy](http://oeasy.org/)
+
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
 - [小木虫导航](https://xmuchong.com/page-sitemap/)
