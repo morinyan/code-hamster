@@ -47,6 +47,8 @@
 - [发现中国](https://www.ageeye.cn/)
 - [微词云](https://www.weiciyun.com/)
 - [博客-feed订阅](https://getpodcast.xyz/)
+- [高清壁纸](https://wallhaven.cc/)
+
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
@@ -140,6 +142,11 @@
 - [大学资源网](http://www.dxzy163.com/)
 - [三秋书屋](https://www.d4j.cn/)
 - [粉笔](https://fenbi.com/page/home)
+
+### 文史
+- [中国妖怪百集](http://www.cbaigui.com/)
+- [诗词名句网](http://www.shicimingju.com/)
+
 
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
