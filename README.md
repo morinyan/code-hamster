@@ -50,7 +50,7 @@
 - [高清壁纸](https://wallhaven.cc/)
 - [爱给-免费素材](http://www.aigei.com/)
 - [小鸡词典-网络流行语](https://jikipedia.com/)
-
+- [新媒体-5118](https://www.5118.com/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
