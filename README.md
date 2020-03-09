@@ -154,6 +154,9 @@
 - [诗词名句网](http://www.shicimingju.com/)
 - [唐宋文学编年地图](https://sou-yun.cn/PoetLifeMap.aspx)
 - [书格](https://new.shuge.org/)
+- [读书人](http://www.duxieren.com/)
+- [十万个为什么](http://www.10why.net/)
+- [中国科普博览](http://www.kepu.cn/)
 
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
