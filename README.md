@@ -164,6 +164,7 @@
 - [植物智](http://www.iplant.cn/)
 - [中国国家图书馆](http://mylib.nlc.cn/web/guest/boshilunwen)
 - [猫咪论文](https://lunwen.im/)
+- [盒子学术](http://scholar.ooopn.com/)
 
 ### 数据报告
 - [博思网](http://www.bosidata.com/)
