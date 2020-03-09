@@ -147,6 +147,7 @@
 - [大学资源网](http://www.dxzy163.com/)
 - [三秋书屋](https://www.d4j.cn/)
 - [粉笔](https://fenbi.com/page/home)
+- [英文电子教材](https://cnx.org/)
 
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
