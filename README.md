@@ -48,6 +48,8 @@
 - [微词云](https://www.weiciyun.com/)
 - [博客-feed订阅](https://getpodcast.xyz/)
 - [高清壁纸](https://wallhaven.cc/)
+- [爱给-免费素材](http://www.aigei.com/)
+- [小鸡词典-网络流行语](https://jikipedia.com/)
 
 
 ### 在线工具(程序)
