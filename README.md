@@ -51,6 +51,7 @@
 - [爱给-免费素材](http://www.aigei.com/)
 - [小鸡词典-网络流行语](https://jikipedia.com/)
 - [新媒体-5118](https://www.5118.com/)
+- [懒设计](https://www.fotor.com.cn/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
@@ -104,11 +105,13 @@
 - [虫部落](https://www.chongbuluo.com/)
 - [创造师导航](http://chuangzaoshi.com/)
 - [考拉新媒体导航](https://www.kaolamedia.com/)
+- [广告狗](https://www.addog.vip/)
 - [阿猫阿狗导航-产品&运营](https://dh.woshipm.com/#section-1)
 - [设计导航](https://idesign.qq.com/#!index/feed)
 - [某柠檬](https://www.moulem.com/)
 - [高效搜罗](http://www.gaoxiaosouluo.com/)
 - [云端超级应用空间](https://uzer.me/)
+- [爱达杂货铺](https://adzhp.cn/)
 
 ### 应用程序咨询
 - [少年派](https://sspai.com/)
@@ -149,6 +152,7 @@
 - [中国妖怪百集](http://www.cbaigui.com/)
 - [诗词名句网](http://www.shicimingju.com/)
 - [唐宋文学编年地图](https://sou-yun.cn/PoetLifeMap.aspx)
+- [书格](https://new.shuge.org/)
 
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
