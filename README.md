@@ -58,6 +58,11 @@
 - [丁香医生](https://dxy.com/)
 - [认识一帮潮人，学习一门新语言](https://www.coffeestrap.com/)
 - [淘链客](http://www.toplinks.cc/s/)
+- [蓝铅笔](https://www.lanqb.com/)
+- [巧匠课堂](https://www.qiaojiang.tv/)
+- [站库高高手](https://www.gogoup.com/)
+- [学UI网](http://www.xueui.cn/)
+- [可汗学院](https://zh.khanacademy.org/)
 
 ### 英文聊天室
 - [https://chatto.us/](https://chatto.us/)
@@ -83,6 +88,7 @@
 - [word联盟](http://www.wordlm.com/)
 - [锐普PPT](http://www.rapidbbs.cn/)
 - [excel之家](http://www.excelhome.net/)
+- [PPFans](http://www.pptfans.cn/)
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
@@ -164,6 +170,7 @@
 - [北京大学公开课](http://opencourse.pku.edu.cn)
 - [英语学习网站大全](http://www.yywz123.com/)
 - [degreed-学位](https://degreed.com/) 
+- [doyoudo](https://www.doyoudo.com/)
 
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
