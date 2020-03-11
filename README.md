@@ -52,6 +52,14 @@
 - [小鸡词典-网络流行语](https://jikipedia.com/)
 - [新媒体-5118](https://www.5118.com/)
 - [懒设计](https://www.fotor.com.cn/)
+- [美食杰](https://www.meishij.net/)
+- [万门教育](https://www.wanmen.org/)
+- [手工客](http://www.shougongke.com/)
+- [丁香医生](https://dxy.com/)
+- [认识一帮潮人，学习一门新语言](https://www.coffeestrap.com/)
+
+### 英文聊天室
+- [https://chatto.us/](https://chatto.us/)
 
 ### 在线工具(程序)
 - [草料二维码](https://cli.im/)
@@ -70,6 +78,8 @@
 - [在线绘图](https://www.draw.io/)
 - [工具123](http://www.gjw123.com/)
 
+### 办公软件
+- [word联盟](http://www.wordlm.com/)
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
