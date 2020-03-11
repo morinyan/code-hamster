@@ -148,6 +148,8 @@
 - [三秋书屋](https://www.d4j.cn/)
 - [粉笔](https://fenbi.com/page/home)
 - [英文电子教材](https://cnx.org/)
+- [北京大学公开课](http://opencourse.pku.edu.cn)
+ - [英语学习网站大全](http://www.yywz123.com/)
 
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
