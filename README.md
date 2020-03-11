@@ -63,6 +63,7 @@
 - [站库高高手](https://www.gogoup.com/)
 - [学UI网](http://www.xueui.cn/)
 - [可汗学院](https://zh.khanacademy.org/)
+- [创可贴](https://www.chuangkit.com/)
 
 ### 英文聊天室
 - [https://chatto.us/](https://chatto.us/)
@@ -180,6 +181,7 @@
 - [读书人](http://www.duxieren.com/)
 - [十万个为什么](http://www.10why.net/)
 - [中国科普博览](http://www.kepu.cn/)
+- [推荐书](https://www.tuijianshu.net/)
 
 ### 学术/科研
 - [小木虫](https://xmuchong.com/)
