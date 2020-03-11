@@ -90,6 +90,7 @@
 - [锐普PPT](http://www.rapidbbs.cn/)
 - [excel之家](http://www.excelhome.net/)
 - [PPFans](http://www.pptfans.cn/)
+- [officeplus](http://www.officeplus.cn/Template/Home.shtml)
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
