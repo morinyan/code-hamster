@@ -176,6 +176,7 @@
 - [猿学](http://www.yuanxue365.com/)
 - [人人自学网](http://www.rrzxw.net/index.html)
 - [外语学习](https://www.memrise.com/)
+- [云海免费电子图书馆](http://www.pdfbook.cn/)
 
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
