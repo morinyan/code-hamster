@@ -60,7 +60,6 @@
 - [淘链客](http://www.toplinks.cc/s/)
 - [蓝铅笔](https://www.lanqb.com/)
 - [巧匠课堂](https://www.qiaojiang.tv/)
-- [站库高高手](https://www.gogoup.com/)
 - [学UI网](http://www.xueui.cn/)
 - [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
@@ -109,6 +108,7 @@
 - [优图库](https://www.utu.cool/)
 - [colorhub](https://colorhub.me/)
 - [topys](https://www.topys.cn/)
+- [站库高高手](https://www.gogoup.com/)
 
 ### 导航
 - [国外网站导航](https://www.egouz.com/)
