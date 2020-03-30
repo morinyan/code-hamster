@@ -116,6 +116,15 @@
 - [axure原型](http://www.axureux.com/home/default.html)
 - [摹客](https://www.mockplus.cn/)
 
+### 运营
+- [爱运营](https://www.iyunying.org/)
+- [鸟哥笔记](https://www.niaogebiji.com/)
+- [运营有道](http://youdaoyun.net/)
+- [运营喵](https://www.yymiao.cn/)
+- [91运营](http://www.91yunying.com/)
+- [谢莉的网站运营博客](http://www.xielid.com/)
+- [青瓜传媒](http://www.opp2.com/)
+
 ### 导航
 - [国外网站导航](https://www.egouz.com/)
 - [大木虫学术导航](http://www.4243.net/)
