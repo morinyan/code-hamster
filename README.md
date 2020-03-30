@@ -63,6 +63,7 @@
 - [学UI网](http://www.xueui.cn/)
 - [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
+- [蝉大师](https://www.chandashi.com/)
 
 ### 英文聊天室
 - [https://chatto.us/](https://chatto.us/)
