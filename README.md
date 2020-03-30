@@ -63,7 +63,20 @@
 - [学UI网](http://www.xueui.cn/)
 - [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
+
+### ASO数据平台
 - [蝉大师](https://www.chandashi.com/)
+- [七麦数据](https://www.qimai.cn/)
+- [闯奇科技](https://www.cqaso.com/)
+- [应用雷达](http://www.ann9.com/)
+- [App Annie中国](https://www.appannie.com/cn/)
+- [appbk](http://www.appbk.com/)
+- [鸟哥笔记-ASO](http://aso.niaogebiji.com/)
+- [德普优化](https://www.deepaso.com/)
+- [ASO114](http://aso114.com/)
+- [酷传](https://www.kuchuan.com/)
+- [友盟](https://www.umeng.com/)
+- [诸葛](https://zhugeio.com/)
 
 ### 英文聊天室
 - [https://chatto.us/](https://chatto.us/)
@@ -125,6 +138,7 @@
 - [91运营](http://www.91yunying.com/)
 - [谢莉的网站运营博客](http://www.xielid.com/)
 - [青瓜传媒](http://www.opp2.com/)
+- [姑婆那些事儿](http://www.gupowang.com/)
 
 ### 导航
 - [国外网站导航](https://www.egouz.com/)
