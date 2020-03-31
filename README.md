@@ -209,6 +209,11 @@
 - [云海免费电子图书馆](http://www.pdfbook.cn/)
 - [学习啦](http://www.xuexila.com/)
 
+### 书库
+- [epubee](http://cn.epubee.com/books/)
+- [鸠摩搜索](https://www.jiumodiary.com/)
+- [epubw](https://epubw.com/)
+
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
 - [诗词名句网](http://www.shicimingju.com/)
