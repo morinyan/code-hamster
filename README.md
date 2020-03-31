@@ -214,6 +214,15 @@
 - [epubee](http://cn.epubee.com/books/)
 - [鸠摩搜索](https://www.jiumodiary.com/)
 - [epubw](https://epubw.com/)
+- [书单网](https://www.shudan.vip/)
+- [书舟网](http://kindle.archiew.top/)
+- [掌上书苑](https://www.soepub.com/)
+- [好读](http://www.haodoo.net/)
+- [嘒彼小星](https://www.huibixx.com/)
+- [sobooks](https://sobooks.cc/)
+- [拨云](https://www.boyunso.com/)
+- [计算机书籍控](http://bestcbooks.com/)
+- [图灵社区](https://www.ituring.com.cn/)
 
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
