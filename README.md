@@ -63,6 +63,7 @@
 - [学UI网](http://www.xueui.cn/)
 - [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
+- [幕享](https://letsview.com/zh/)
 
 ### ASO数据平台
 - [蝉大师](https://www.chandashi.com/)
@@ -97,6 +98,10 @@
 - [如何吧-办公软件技巧](https://www.ruhe8.com/)
 - [在线绘图](https://www.draw.io/)
 - [工具123](http://www.gjw123.com/)
+- [太美工具网](https://tiomg.org/)
+- [GitMind](https://gitmind.cn/)
+- [canva](https://www.canva.cn/)
+- [图表魔方](https://chartcube.alipay.com/)
 
 ### 办公软件
 - [办公资源网](https://www.bangongziyuan.com/)
