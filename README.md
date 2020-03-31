@@ -230,6 +230,7 @@
 - [计算机书籍控](http://bestcbooks.com/)
 - [图灵社区](https://www.ituring.com.cn/)
 - [微盘](https://vdisk.weibo.com/)
+- [书伴](https://bookfere.com/ebook)
 
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
