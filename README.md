@@ -102,6 +102,7 @@
 - [GitMind](https://gitmind.cn/)
 - [canva](https://www.canva.cn/)
 - [图表魔方](https://chartcube.alipay.com/)
+- [钙网-在线logo设计](http://www.uugai.com/)
 
 ### 办公软件
 - [办公资源网](https://www.bangongziyuan.com/)
