@@ -99,6 +99,7 @@
 - [工具123](http://www.gjw123.com/)
 
 ### 办公软件
+- [办公资源网](https://www.bangongziyuan.com/)
 - [word联盟](http://www.wordlm.com/)
 - [锐普PPT](http://www.rapidbbs.cn/)
 - [excel之家](http://www.excelhome.net/)
