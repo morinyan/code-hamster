@@ -64,6 +64,7 @@
 - [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
 - [幕享](https://letsview.com/zh/)
+- [吾道PPT](https://www.woodo.cn/)
 
 ### ASO数据平台
 - [蝉大师](https://www.chandashi.com/)
@@ -231,6 +232,7 @@
 - [图灵社区](https://www.ituring.com.cn/)
 - [微盘](https://vdisk.weibo.com/)
 - [书伴](https://bookfere.com/ebook)
+- [孔夫子旧书网](https://www.kongfz.com/)
 
 ### 文史
 - [中国妖怪百集](http://www.cbaigui.com/)
