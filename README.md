@@ -60,7 +60,6 @@
 - [淘链客](http://www.toplinks.cc/s/)
 - [蓝铅笔](https://www.lanqb.com/)
 - [巧匠课堂](https://www.qiaojiang.tv/)
-- [学UI网](http://www.xueui.cn/)
 - [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
 - [幕享](https://letsview.com/zh/)
@@ -133,6 +132,7 @@
 - [topys](https://www.topys.cn/)
 - [站库高高手](https://www.gogoup.com/)
 - [千库网](https://588ku.com/)
+- [学UI网](http://www.xueui.cn/)
 
 ### 产品经理工具
 - [xiaopiu产品原型设计](https://www.xiaopiu.com/)
