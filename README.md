@@ -63,7 +63,6 @@
 - [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
 - [幕享](https://letsview.com/zh/)
-- [吾道PPT](https://www.woodo.cn/)
 - [黑猫投诉](https://tousu.sina.com.cn/)
 
 ### ASO数据平台
@@ -112,6 +111,7 @@
 - [excel之家](http://www.excelhome.net/)
 - [PPFans](http://www.pptfans.cn/)
 - [officeplus](http://www.officeplus.cn/Template/Home.shtml)
+- [吾道PPT](https://www.woodo.cn/)
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
