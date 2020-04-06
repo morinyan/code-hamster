@@ -13,7 +13,6 @@
 - [duososo](http://www.duososo.com/)
 - [nicetool](http://www.nicetool.net/)
 - [医学微视](https://www.mvyxws.com/)
-- [iData](https://www.cn-ki.net/)
 - [译学馆](https://www.yxgapp.com/)
 - [问答库](https://www.asklib.com/)
 - [音乐而聚](https://www.music2gather.com/)
@@ -37,7 +36,6 @@
 - [eHow](https://www.ehow.com/)
 - [2uts](http://2uts.com/)
 - [唤醒食物](https://www.foodwake.com/)
-- [PPT宝藏](http://www.pptbz.com/)
 - [考试库](https://www.examcoo.com/)
 - [自由钢琴](https://www.autopiano.cn/)
 - [数字帝国](https://zh.numberempire.com/)
@@ -48,7 +46,6 @@
 - [微词云](https://www.weiciyun.com/)
 - [博客-feed订阅](https://getpodcast.xyz/)
 - [高清壁纸](https://wallhaven.cc/)
-- [爱给-免费素材](http://www.aigei.com/)
 - [小鸡词典-网络流行语](https://jikipedia.com/)
 - [新媒体-5118](https://www.5118.com/)
 - [懒设计](https://www.fotor.com.cn/)
@@ -60,7 +57,6 @@
 - [淘链客](http://www.toplinks.cc/s/)
 - [蓝铅笔](https://www.lanqb.com/)
 - [巧匠课堂](https://www.qiaojiang.tv/)
-- [可汗学院](https://zh.khanacademy.org/)
 - [创可贴](https://www.chuangkit.com/)
 - [幕享](https://letsview.com/zh/)
 - [黑猫投诉](https://tousu.sina.com.cn/)
@@ -112,6 +108,7 @@
 - [PPFans](http://www.pptfans.cn/)
 - [officeplus](http://www.officeplus.cn/Template/Home.shtml)
 - [吾道PPT](https://www.woodo.cn/)
+- [PPT宝藏](http://www.pptbz.com/)
 
 ### 字体
 - [字体传奇网](http://www.ziticq.com/)
@@ -133,6 +130,7 @@
 - [站库高高手](https://www.gogoup.com/)
 - [千库网](https://588ku.com/)
 - [学UI网](http://www.xueui.cn/)
+- [爱给-免费素材](http://www.aigei.com/)
 
 ### 产品经理工具
 - [xiaopiu产品原型设计](https://www.xiaopiu.com/)
@@ -217,6 +215,7 @@
 - [外语学习](https://www.memrise.com/)
 - [云海免费电子图书馆](http://www.pdfbook.cn/)
 - [学习啦](http://www.xuexila.com/)
+- [可汗学院](https://zh.khanacademy.org/)
 
 ### 书库
 - [epubee](http://cn.epubee.com/books/)
@@ -257,6 +256,7 @@
 - [猫咪论文](https://lunwen.im/)
 - [盒子学术](http://scholar.ooopn.com/)
 - [谷粉学术](https://gfsoso.99lb.net/)
+- [iData](https://www.cn-ki.net/)
 
 ### 数据报告
 - [博思网](http://www.bosidata.com/)
