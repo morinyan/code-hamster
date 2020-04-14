@@ -61,6 +61,9 @@
 - [幕享](https://letsview.com/zh/)
 - [黑猫投诉](https://tousu.sina.com.cn/)
 - [网页博物馆](https://web.archive.org/)
+- [soomal](http://www.soomal.com/)
+- [v2ex](https://www.v2ex.com/)
+- [topbook](https://topbook.cc/overview)
 
 ### ASO数据平台
 - [蝉大师](https://www.chandashi.com/)
