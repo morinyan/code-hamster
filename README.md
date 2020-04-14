@@ -64,6 +64,7 @@
 - [soomal](http://www.soomal.com/)
 - [v2ex](https://www.v2ex.com/)
 - [topbook](https://topbook.cc/overview)
+- [数字尾巴](https://www.dgtle.com/)
 
 ### ASO数据平台
 - [蝉大师](https://www.chandashi.com/)
