@@ -261,6 +261,7 @@
 - [盒子学术](http://scholar.ooopn.com/)
 - [谷粉学术](https://gfsoso.99lb.net/)
 - [iData](https://www.cn-ki.net/)
+- [思谋学术](https://ac.scmor.com/)
 
 ### 数据报告
 - [博思网](http://www.bosidata.com/)
