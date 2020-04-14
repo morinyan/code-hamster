@@ -199,6 +199,7 @@
 ### 新闻资讯
 - [全世界各国在线报纸网站](https://www.w3newspapers.com/)
 - [澎湃-美数课](https://www.thepaper.cn/list_25635)
+- [后续](https://houxu.app/)
 
 ### 科技资讯
 - [量子位](https://www.qbitai.com/)
